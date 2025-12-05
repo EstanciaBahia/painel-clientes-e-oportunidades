@@ -1,5 +1,4 @@
-# painel-clientes-e-oportunidades
-
+# Painel de Clientes e Oportunidades
 
 Regras ultilizadas para definir a pontuação para identificação de nível de potencial e recuperação de clientes.
 
